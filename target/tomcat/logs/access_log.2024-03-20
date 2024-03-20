@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:01 +0100] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:02 +0100] "GET /cartas/pumba.jsp HTTP/1.1" 404 983 http-bio-8080-exec-2 11
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:06 +0100] "GET /cartas/pumba.jsp?start=0 HTTP/1.1" 404 983 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas HTTP/1.1" 302 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas/ HTTP/1.1" 200 495 http-bio-8080-exec-5 388
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas/assets/css/styles.css HTTP/1.1" 200 164 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas/assets/img/08.png HTTP/1.1" 200 33698 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas/assets/img/10.png HTTP/1.1" 200 35896 http-bio-8080-exec-8 1
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas/assets/img/30.png HTTP/1.1" 200 34519 http-bio-8080-exec-9 3
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas/assets/img/39.png HTTP/1.1" 200 53049 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [20/Mar/2024:12:01:07 +0100] "GET /cartas/assets/img/textura.jpg HTTP/1.1" 200 116061 http-bio-8080-exec-1 2
